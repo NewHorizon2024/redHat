@@ -1,3 +1,4 @@
 function flash() {
-  return document.bgColor = '#212121';
+   document.body.style.backgroundColor = '#212121';
 }
+
